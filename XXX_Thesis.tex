@@ -1,0 +1,212 @@
+% Hauptdatei/ Steuerdatei f�r das gesamte Projekt
+% Nehmen Sie bitte nur �nderungen an gekennzeichneten Stellen vor.
+% Diese Stellen sind mit **manual** kenntlich gemacht.
+
+% Klassenaufruf:
+%
+% Innerhalb der eckigen Klammern k�nnen Sie durch Komma getrennt
+% nachfolgend aufgef�hrte Optionen in der Klasse steuern.
+% Falls keine Optionen angegeben werden, verwendet der Compiler
+% die mit * gekennzeichneten als Standard. Die Bedeutung entnehmen
+% Sie bitte dem aus diesem Projekt generierten PDF Dokument.
+%
+% OPTIONEN:
+% oneside* <-> twoside
+% onecolumn* <-> twocolumn
+% final* <-> draft
+% fleqn
+% rgbt* <-> flbt
+% en <-> de*
+% pdf* <-> nonpdf
+%
+% **manual**
+\documentclass[oneside, onecolumn, final, fleqn, rgbt, en, pdf]{ESM_Latex2e_style}
+%\usepackage[english]{babel}
+
+% Integrated Packages
+%
+% [latin1]{inputenc}	- German Keyboard
+% [T1]{fontenc}
+% {graphicx}			- Graphics	
+% {epstopdf}			- for the usage of eps-grafics
+% {times}
+% {makeidx}				- automatic index
+% {color}
+% {supertabular}      	- tables over multiple pages
+% {rotating}			- rotation of objects and sidewaystables
+% {float}				- fixation of floats
+% {textcase}			- textformating, e.g. transformations
+
+
+% Optionale Usepackages
+%
+% Die folgenden Packages wurden hinzugef�gt,
+% da diese oft Verwendung finden. Diese k�nnen jedoch
+% mit einem Kommentarzeichen ausgeschaltet werden, da
+% User diese u.U. nicht ben�tigen.
+%
+% **manual**
+% \usepackage{layout}             % graphische Darstellung der Abmessungen im Kapitel Abmessungen
+                                % das usepackage layout kann f�r die wissenschaftliche Arbeit
+                                % entfernt werden
+
+%\usepackage{booktabs}           % Besondere Tabellenumgebung wie man sie oft im modernen
+                                % Buchdruck findet
+
+
+%   \usepackage{flafter}        % flafter = float after -> Kein Gleitobjekt vor Einbindungsstelle
+%
+%   \usepackage{amsmath}        % Erleichter die verbesserte Ausgabe bei der Verwendung mathematischer
+%                               %  Formulierungen in Texten; z.B. ist split eine sch�ne Hilfe zur Darstellung
+%                               % mehrzeiliger Formeln ohne eqnarray.
+
+%   \usepackage{longtable}      % Tabellen k�nnen sich �ber Seiten fortsetzen, ohne besonderes
+%                               % Einwirken durch den Benutzer, �hnlich wie supertabular.
+%                               % Supertabular hat jedoch das umfangreichere Funktionsspektrum.
+
+%
+%
+% User Usepackages
+%
+% F�gen Sie nachfolgend von Ihnen ben�tigte Usepackes ein.
+% \usepackage[option]{packagename}
+%
+% **manual**
+%
+%
+% \usepackage{pdfpages}						% F�r das Einbinden von mehrseitige pdf-Dateien
+
+% \usepackage{rotating}						% F�r das Rotieren von Tabellen
+
+\usepackage[bf, it, textfont=it, hang]{caption}		% Um das 'Caption' zu personalisieren
+
+\makeindex
+% 
+
+
+%\usepackage{subcaption}
+
+%\usepackage{placeins}
+%\usepackage[hidelinks]{hyperref} % crosslinks inside the document
+%\usepackage{url}
+
+%\usepackage[table]{xcolor}
+%\usepackage{xspace}
+
+
+%----------------------------------------------------------------
+% DOKUMENT ANFANG
+\begin{document}
+\pagenumbering{Alph}
+
+%  TITELSEITE EINBINDEN
+% +++++++++++++++++++++++++++++++++++++++++++++++
+
+\input{TeX/titlepage}
+\pagenumbering{Roman}
+%
+% ZUSAMMENFASSUNG EINBINDEN
+% +++++++++++++++++++++++++++++++++++++++++++++++
+% Kurzfassung in Deutsch oder Englisch, maximal 650 Zeichen inkl. Leerzeichen
+\input{TeX/abstract}
+\newpage
+%
+%
+% VORWORT: F�R VORHERGEHENDE ERL�UTERUNGEN UND EVTL. DANKWORTE
+% +++++++++++++++++++++++++++++++++++++++++++++++
+% Ab hier ist die Umgebung optional und dem entsprechenden Bed�rfnis angepa�t einzusetzen!
+% Falls die Umgebung nicht ben�tigt wird, entweder mit einem Kommentarzeichen deaktivieren,
+% oder den Input l�schen.
+%
+% **manual**
+%\input{TeX/vorwort}
+%\input{TeX/acknowledgement}
+\input{TeX/independence}
+\clearpage
+%
+%
+% INHALTSVERZEICHNIS
+% +++++++++++++++++++++++++++++++++++++++++++++++
+\tableofcontents
+%
+%
+% EINLEITUNG EINBINDEN
+% +++++++++++++++++++++++++++++++++++++++++++++++
+%\setcounter{page}{1}%
+\input{TeX/introduction}
+%
+%
+% HAUPTTEIL EINBINDEN
+% +++++++++++++++++++++++++++++++++++++++++++++++
+% Die Eingebundene Datei Hauptteil sollte erhalten bleiben.
+% Zum Einen k�nnen Sie dann den kompletten Hauptteil
+% auf einmal auskommentieren, wenn Sie an anderen
+% Teilen arbeiten. Ausserdem erh�ht die Einbindung Ihrer
+% Kapitel in der Datei Hauptteil.tex die �bersichtlichkeit.
+% Zudem finden sich die einzelnen Einbingsstellen gut, wodurch
+% sich auch einzelne Kapitel auskommentieren lassen.
+%
+% HIER SIND DIE KAPITEL DER ARBEIT IN GEEIGNETER FORM EINZUBINDEN
+
+\input{TeX/challenges}
+\input{TeX/outlook}
+
+
+%  ANHANG
+% +++++++++++++++++++++++++++++++++++++++++++++++
+% Der Anhang wird durch die Umgebung appendix vom
+% Rest der Arbeit abgegrenzt und hat eine eigene
+% Darstellung der �berschriften und Kopfzeilen.
+% Binden Sie ihre Anhangskapitel in der Datei Anhang.tex ein.
+
+\begin{appendix}
+    \input{TeX/appendix}
+\end{appendix}
+
+% ENDE ANHANG
+%
+% FORMELZEICHEN UND EINHEITEN
+% +++++++++++++++++++++++++++++++++++++++++++++++
+%
+%\def\chaptermark#1{}
+%\mark{{}{}}   % Initialisierung der Markierungen (wirkt wie ein Reset)
+%\input{TeX/List-of-Symbols}
+%
+%\input{TeX/List-of-Abbreviations}%
+%
+% VERZEICHNIS DER VORKOMMENDEN ABBILDUNGEN
+% +++++++++++++++++++++++++++++++++++++++++++++++
+%\listoffigures
+%
+%
+% VERZEICHNIS DER VORKOMMENDEN TABELLEN
+% +++++++++++++++++++++++++++++++++++++++++++++++
+%\listoftables
+%
+%
+% LITERATURVERZEICHNIS
+% +++++++++++++++++++++++++++++++++++++++++++++++
+% Wichtig: Dieses ist immer einspaltig ausgef�hrt.
+%%bibliographystyle{acm}
+%\bibliographystyle{plain}
+\bibliographystyle{unsrt}
+\nocite{*}	% show all entries in bib-file
+\bibliography{Literature}
+%
+%
+%
+%
+% INDEX
+% +++++++++++++++++++++++++++++++++++++++++++++++
+% Hierzu muss an entsprechender Stelle im Text mit
+% \index{Bezeichnung} eine Referenz erzeugt werden
+%
+% **manual**
+%\printindex
+%
+%
+
+\end{document}
+% DOKUMENT ENDE
+% ----------------------------------------------------------------
+
