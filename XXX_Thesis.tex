@@ -52,8 +52,7 @@
 
 %\usepackage{booktabs}           % Besondere Tabellenumgebung wie man sie oft im modernen
                                 % Buchdruck findet
-
-
+\newcommand*\chem[1]{\ensuremath{\mathrm{#1}}}
 %   \usepackage{flafter}        % flafter = float after -> Kein Gleitobjekt vor Einbindungsstelle
 %
 %   \usepackage{amsmath}        % Erleichter die verbesserte Ausgabe bei der Verwendung mathematischer
@@ -148,6 +147,7 @@
 %
 % HIER SIND DIE KAPITEL DER ARBEIT IN GEEIGNETER FORM EINZUBINDEN
 
+\input{TeX/firststeps}
 \input{TeX/challenges}
 \input{TeX/outlook}
 
