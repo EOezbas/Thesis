@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  14 SEP 2018 05:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  16 SEP 2018 05:05
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -338,43 +338,46 @@ Chapter\  1. Introduction
 
 
 ]
-Chapter\  2. First Steps
+Chapter\  2. Preparation
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
 ) (TeX/challenges.tex [2
 
 ]
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [3]
 Chapter\  3. Challenges
-) (TeX/outlook.tex [3
+) (TeX/outlook.tex [4
 
 ]
 Chapter\  4. Outlook
-) [4
+) [5
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [5
+ [6
 
 ]
 (TeX/appendix.tex
 \  A. Some Appendix
-[6
+[7
 
 
 ]
 \  B. Source Code
-) (XXX_Thesis.bbl [7
+) (XXX_Thesis.bbl [8
 
-]) [8
+]) [9
 
 ] (XXX_Thesis.aux) )
 (\end occurred when \iffalse on line 1 was incomplete) 
 Here is how much of TeX's memory you used:
- 3808 strings out of 492972
- 59378 string characters out of 3126622
- 132832 words of memory out of 3000000
- 7568 multiletter control sequences out of 15000+200000
+ 3809 strings out of 492972
+ 59392 string characters out of 3126622
+ 133832 words of memory out of 3000000
+ 7569 multiletter control sequences out of 15000+200000
  37346 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,8n,38p,1133b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -388,9 +391,9 @@ uhvro8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmb8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
 rw/times/utmr8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (12 pages, 108303 bytes).
+Output written on XXX_Thesis.pdf (13 pages, 111029 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
