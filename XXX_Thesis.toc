@@ -4,16 +4,19 @@
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
 \contentsline {section}{\numberline {2.1}Initial Researches}{2}
 \contentsline {section}{\numberline {2.2}Getting a Better Understanding}{2}
-\contentsline {chapter}{\numberline {3}First Attempt}{3}
+\contentsline {chapter}{\numberline {3}Putting Into Practice}{3}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {3.1}}{3}
-\contentsline {chapter}{\numberline {4}Challenges}{4}
+\contentsline {section}{\numberline {3.1}Design of the Circuit}{3}
+\contentsline {section}{\numberline {3.2}}{4}
+\contentsline {chapter}{\numberline {4}Challenges}{5}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {4.1}Mechanical and optical challenges}{4}
-\contentsline {subsection}{\numberline {4.1.1}Critical parameters}{4}
-\contentsline {chapter}{\numberline {5}Outlook}{5}
+\contentsline {section}{\numberline {4.1}Mechanical and optical challenges}{5}
+\contentsline {subsection}{\numberline {4.1.1}Critical parameters}{5}
+\contentsline {chapter}{\numberline {5}Outlook}{6}
+ {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
+\contentsline {section}{\numberline {5.1}Possible Enhancements}{6}
 {\setcounter {tocdepth}{0}}
  \addvspace {30\p@ } \hbox to \hsize {\bf APPENDIX \hfil } \addvspace {1.0em plus 1pt}
-\contentsline {chapter}{\numberline {A}Some Appendix}{7}
-\contentsline {chapter}{\numberline {B}Source Code}{8}
-\contentsline {chapter}{Bibliography}{9}
+\contentsline {chapter}{\numberline {A}Some Appendix}{8}
+\contentsline {chapter}{\numberline {B}Source Code}{9}
+\contentsline {chapter}{Bibliography}{10}
