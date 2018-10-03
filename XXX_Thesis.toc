@@ -11,12 +11,12 @@
 \contentsline {chapter}{\numberline {4}Challenges}{5}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
 \contentsline {section}{\numberline {4.1}Mechanical and optical challenges}{5}
-\contentsline {subsection}{\numberline {4.1.1}Critical parameters}{5}
-\contentsline {chapter}{\numberline {5}Outlook}{6}
+\contentsline {section}{\numberline {4.2}Critical parameters}{5}
+\contentsline {chapter}{\numberline {5}Outlook}{7}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {5.1}Possible Enhancements}{6}
+\contentsline {section}{\numberline {5.1}Possible Future Enhancements}{7}
 {\setcounter {tocdepth}{0}}
  \addvspace {30\p@ } \hbox to \hsize {\bf APPENDIX \hfil } \addvspace {1.0em plus 1pt}
-\contentsline {chapter}{\numberline {A}Some Appendix}{8}
-\contentsline {chapter}{\numberline {B}Source Code}{9}
-\contentsline {chapter}{Bibliography}{10}
+\contentsline {chapter}{\numberline {A}Some Appendix}{9}
+\contentsline {chapter}{\numberline {B}Source Code}{10}
+\contentsline {chapter}{Bibliography}{11}
