@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  3 OCT 2018 03:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  5 OCT 2018 03:41
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -326,13 +326,17 @@ Overfull \vbox (7.855pt too high) has occurred while \output is active []
 (XXX_Thesis.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-)
+ [1
+
+])
 \tf@toc=\write4
 \openout4 = `XXX_Thesis.toc'.
 
- [1
 
-] (TeX/introduction.tex
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [2]
+(TeX/introduction.tex
 Chapter\  1. Introduction
 ) (TeX/firststeps.tex [1
 
@@ -347,36 +351,49 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
 Chapter\  3. Putting Into Practice
 [3
 
-]) (TeX/challenges.tex
+]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [4]
-Chapter\  4. Challenges
-[5
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
-]) (TeX/outlook.tex
+ [5])
+(TeX/challenges.tex
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [6]
+Chapter\  4. Challenges
+[7
+
+]
+Overfull \hbox (4.83073pt too wide) in paragraph at lines 14--15
+\T1/ptm/m/n/12 The cir-cuit schematic taken from Al-phasense web-page \T1/ptm/b
+/n/12 Al-inti \T1/ptm/m/n/12 il-lus-trates a de-sign for a 3-electrode
+ []
+
+) (TeX/outlook.tex
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [8]
 Chapter\  5. Outlook
-) [7
+) [9
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [8
+ [10
 
 ]
 (TeX/appendix.tex
 \  A. Some Appendix
-[9
+[11
 
 
 ]
 \  B. Source Code
-) (XXX_Thesis.bbl [10
+) (XXX_Thesis.bbl [12
 
-]) [11
+]) [13
 
 ] (XXX_Thesis.aux) )
 (\end occurred when \iffalse on line 1 was incomplete) 
@@ -387,20 +404,21 @@ Here is how much of TeX's memory you used:
  7571 multiletter control sequences out of 15000+200000
  40068 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,8n,38p,1550b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,8n,38p,1982b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/eozba/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/eozba/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/eozb
-a/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
-/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.
-pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/
-uhvro8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/t
-imes/utmb8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
-rw/times/utmr8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (15 pages, 121890 bytes).
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/eoz
+ba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
+vetic/uhvr8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/urw/times/utmb8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/urw/times/utmr8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on XXX_Thesis.pdf (18 pages, 144397 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 128 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
