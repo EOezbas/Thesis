@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  7 OCT 2018 05:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  8 OCT 2018 01:38
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -363,13 +363,19 @@ Overfull \vbox (1.855pt too high) has occurred while \output is active []
  [6]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [7])
-(TeX/challenges.tex
+ [7]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [8]
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [9])
+(TeX/challenges.tex
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [10]
 Chapter\  4. Challenges
-[9
+[11
 
 ]
 Overfull \hbox (4.83073pt too wide) in paragraph at lines 14--15
@@ -380,26 +386,26 @@ Overfull \hbox (4.83073pt too wide) in paragraph at lines 14--15
 ) (TeX/outlook.tex
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [10]
+ [12]
 Chapter\  5. Outlook
-) [11
+) [13
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [12
+ [14
 
 ]
 (TeX/appendix.tex
 \  A. Some Appendix
-[13
+[15
 
 
 ]
 \  B. Source Code
-) (XXX_Thesis.bbl [14
+) (XXX_Thesis.bbl [16
 
-]) [15
+]) [17
 
 ] (XXX_Thesis.aux) )
 (\end occurred when \iffalse on line 1 was incomplete) 
@@ -410,7 +416,7 @@ Here is how much of TeX's memory you used:
  7571 multiletter control sequences out of 15000+200000
  40068 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,8n,38p,2109b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,9n,38p,2109b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/eozba/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/eozba/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/eoz
@@ -423,9 +429,9 @@ fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/eozba/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/eozba/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (20 pages, 166381 bytes).
+Output written on XXX_Thesis.pdf (22 pages, 177137 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
