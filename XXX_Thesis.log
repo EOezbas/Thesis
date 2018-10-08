@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  8 OCT 2018 01:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  8 OCT 2018 04:05
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -378,34 +378,38 @@ Chapter\  4. Challenges
 [11
 
 ]
-Overfull \hbox (4.83073pt too wide) in paragraph at lines 14--15
+Overfull \hbox (4.83073pt too wide) in paragraph at lines 15--16
 \T1/ptm/m/n/12 The cir-cuit schematic taken from Al-phasense web-page \T1/ptm/b
 /n/12 Al-inti \T1/ptm/m/n/12 il-lus-trates a de-sign for a 3-electrode
  []
 
-) (TeX/outlook.tex
+
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [12]
+ [12])
+(TeX/outlook.tex
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [13]
 Chapter\  5. Outlook
-) [13
+) [14
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [14
+ [15
 
 ]
 (TeX/appendix.tex
 \  A. Some Appendix
-[15
+[16
 
 
 ]
 \  B. Source Code
-) (XXX_Thesis.bbl [16
+) (XXX_Thesis.bbl [17
 
-]) [17
+]) [18
 
 ] (XXX_Thesis.aux) )
 (\end occurred when \iffalse on line 1 was incomplete) 
@@ -429,9 +433,9 @@ fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/eozba/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/eozba/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (22 pages, 177137 bytes).
+Output written on XXX_Thesis.pdf (23 pages, 179731 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
