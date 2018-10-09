@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  8 OCT 2018 04:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  10 OCT 2018 00:16
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -342,19 +342,19 @@ Chapter\  1. Introduction
 
 
 ]
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [2]
 Chapter\  2. Preparation
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
-[2
-
-]
-Chapter\  3. Putting Into Practice
 [3
 
 ]
-Overfull \vbox (1.855pt too high) has occurred while \output is active []
+Chapter\  3. Putting Into Practice
+[4
 
- [4]
+]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [5]
@@ -369,13 +369,16 @@ Overfull \vbox (1.855pt too high) has occurred while \output is active []
  [8]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [9])
+ [9]
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [10])
 (TeX/challenges.tex
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [10]
+ [11]
 Chapter\  4. Challenges
-[11
+[12
 
 ]
 Overfull \hbox (4.83073pt too wide) in paragraph at lines 15--16
@@ -386,30 +389,30 @@ Overfull \hbox (4.83073pt too wide) in paragraph at lines 15--16
 
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [12])
+ [13])
 (TeX/outlook.tex
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [13]
+ [14]
 Chapter\  5. Outlook
-) [14
+) [15
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [15
+ [16
 
 ]
 (TeX/appendix.tex
 \  A. Some Appendix
-[16
+[17
 
 
 ]
 \  B. Source Code
-) (XXX_Thesis.bbl [17
+) (XXX_Thesis.bbl [18
 
-]) [18
+]) [19
 
 ] (XXX_Thesis.aux) )
 (\end occurred when \iffalse on line 1 was incomplete) 
@@ -433,9 +436,9 @@ fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/eozba/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/eozba/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (23 pages, 179731 bytes).
+Output written on XXX_Thesis.pdf (24 pages, 182185 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
+ 151 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
