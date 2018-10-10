@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Hutton2011}
 Guy Hutton.
@@ -6,10 +6,44 @@ Guy Hutton.
 \newblock {\em Global Damage Costs of Air Pollution from 1900 to 2050}, 2011.
 
 \bibitem{Cross2017}
-Eben~S. Cross.
+David K. Lewis Gregory R. Magoon Timothy B. Onasch Michael L. Kaminsky Douglas
+  R. Worsnop John T.~Jayne Eben S.~Cross, Leah R.~Williams.
 \newblock Use of electrochemical sensors for measurement of air pollution:
   correcting interference response and validating measurements.
 \newblock Technical report, Massachusetts Institute of Technology, Cambridge,
   MA 02139, USA, 2017.
+
+\bibitem{Mueller2017}
+Christoph~Hueglin Michael~Mueller, Jonas~Meyer.
+\newblock Design of an ozone and nitrogen dioxide sensor unit and its long-term
+  operation within a sensor network in the city of zurich.
+\newblock 2017.
+
+\bibitem{HowElectrochemicalGasSensorsWork}
+Alphasense, Sensor Technology House, 300 Avenue West, Skyline 120, Great
+  Notley, Essex CM77 7AA.
+\newblock {\em How Electrochemical Gas Sensors Work}.
+
+\bibitem{2009}
+Alphasense, Sensor Technology House, 300 Avenue West, Skyline 120, Great
+  Notley, Essex CM77 7AA.
+\newblock {\em Designing A Potentiostatic Circuit}, March 2009.
+
+\bibitem{delay}
+Arduino.
+\newblock {\em Delay - Arduino Reference}.
+
+\bibitem{TLV2211}
+{\em TLV2211, TLV2211Y Advanced LinCMOS Rail-To-Rail Micropower Single
+  Operational Amplifiers}.
+
+\bibitem{LT6011}
+{\em LT6011/ LT6012 Dual/Quad Rail-to-Rail Output Precision Op Amp}.
+
+\bibitem{Time}
+{\em Arduino Time Library}.
+
+\bibitem{SD}
+{\em Arduino SD Library}.
 
 \end{thebibliography}

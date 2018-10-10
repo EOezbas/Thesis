@@ -11,32 +11,34 @@
 \contentsline {subsubsection}{\numberline {3.1.1.1}Circuit Design}{4}
 \contentsline {subsubsection}{\numberline {3.1.1.2}Microcontroller}{5}
 \contentsline {subsection}{\numberline {3.1.2}Software}{6}
-\contentsline {subsection}{\numberline {3.1.3}Discussion}{6}
+\contentsline {subsection}{\numberline {3.1.3}Discussion}{7}
 \contentsline {section}{\numberline {3.2}Realising the Last Circuit}{7}
 \contentsline {subsection}{\numberline {3.2.1}Hardware}{7}
 \contentsline {subsubsection}{\numberline {3.2.1.1}Main Circuit}{7}
-\contentsline {subsubsection}{\numberline {3.2.1.2}Voltage Regulator Subcircuit}{8}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Voltage Regulator Subcircuit}{9}
 \contentsline {subsubsection}{\numberline {3.2.1.3}Power Supply of the Operational Amplifiers}{9}
 \contentsline {subsubsection}{\numberline {3.2.1.4}SD Card Module}{9}
-\contentsline {subsection}{\numberline {3.2.2}Software}{9}
+\contentsline {subsection}{\numberline {3.2.2}Software}{10}
 \contentsline {subsection}{\numberline {3.2.3}Discussion}{11}
-\contentsline {chapter}{\numberline {4}Challenges}{12}
+\contentsline {chapter}{\numberline {4}Results}{12}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {4.1}Initial Design}{12}
-\contentsline {subsection}{\numberline {4.1.1}Mechanical and Optical Challenges}{12}
-\contentsline {subsubsection}{\numberline {4.1.1.1}Converting SMD to THT}{12}
-\contentsline {subsection}{\numberline {4.1.2}Inconsistencies Between Design and Sensor}{13}
-\contentsline {subsubsection}{\numberline {4.1.2.1}Testing the Sensors}{13}
-\contentsline {section}{\numberline {4.2}Final Design}{14}
-\contentsline {subsection}{\numberline {4.2.1}Mechanical and optical challenges}{14}
-\contentsline {subsection}{\numberline {4.2.2}Critical parameters}{14}
-\contentsline {subsubsection}{\numberline {4.2.2.1}Testing the Sensors}{14}
-\contentsline {chapter}{\numberline {5}Outlook}{15}
+\contentsline {section}{\numberline {4.1}Initial Results}{12}
+\contentsline {section}{\numberline {4.2}Final Results}{12}
+\contentsline {chapter}{\numberline {5}Challenges}{13}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {5.1}Conclusion}{15}
-\contentsline {section}{\numberline {5.2}Possible Future Enhancements}{15}
+\contentsline {section}{\numberline {5.1}Converting SMD to THT}{13}
+\contentsline {section}{\numberline {5.2}Initial Design}{14}
+\contentsline {subsection}{\numberline {5.2.1}Inconsistencies Between Design and Sensor}{14}
+\contentsline {subsubsection}{\numberline {5.2.1.1}Testing the Sensors}{14}
+\contentsline {section}{\numberline {5.3}Final Design}{15}
+\contentsline {subsection}{\numberline {5.3.1}Critical parameters}{15}
+\contentsline {subsubsection}{\numberline {5.3.1.1}Testing the Sensors}{15}
+\contentsline {chapter}{\numberline {6}Outlook}{16}
+ {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
+\contentsline {section}{\numberline {6.1}Conclusion}{16}
+\contentsline {section}{\numberline {6.2}Possible Future Enhancements}{16}
 {\setcounter {tocdepth}{0}}
  \addvspace {30\p@ } \hbox to \hsize {\bf APPENDIX \hfil } \addvspace {1.0em plus 1pt}
-\contentsline {chapter}{\numberline {A}Some Appendix}{17}
-\contentsline {chapter}{\numberline {B}Source Code}{18}
-\contentsline {chapter}{Bibliography}{19}
+\contentsline {chapter}{\numberline {A}Some Appendix}{19}
+\contentsline {chapter}{\numberline {B}Source Code}{20}
+\contentsline {chapter}{Bibliography}{21}
