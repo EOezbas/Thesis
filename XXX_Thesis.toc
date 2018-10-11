@@ -21,24 +21,22 @@
 \contentsline {subsection}{\numberline {3.2.2}Software}{10}
 \contentsline {subsection}{\numberline {3.2.3}Discussion}{11}
 \contentsline {chapter}{\numberline {4}Results}{12}
+\contentsline {chapter}{\numberline {5}Challenges}{15}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {4.1}Initial Results}{12}
-\contentsline {section}{\numberline {4.2}Final Results}{12}
-\contentsline {chapter}{\numberline {5}Challenges}{13}
+\contentsline {section}{\numberline {5.1}Converting SMD to THT}{15}
+\contentsline {section}{\numberline {5.2}Initial Design}{16}
+\contentsline {subsection}{\numberline {5.2.1}Inconsistencies Between Design and Sensor}{16}
+\contentsline {subsubsection}{\numberline {5.2.1.1}Testing the Sensors}{16}
+\contentsline {section}{\numberline {5.3}Final Design}{17}
+\contentsline {subsection}{\numberline {5.3.1}Critical parameters}{17}
+\contentsline {subsection}{\numberline {5.3.2}Inconsistencies Between Design and Sensor}{17}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Testing the Sensors}{17}
+\contentsline {chapter}{\numberline {6}Outlook}{18}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {5.1}Converting SMD to THT}{13}
-\contentsline {section}{\numberline {5.2}Initial Design}{14}
-\contentsline {subsection}{\numberline {5.2.1}Inconsistencies Between Design and Sensor}{14}
-\contentsline {subsubsection}{\numberline {5.2.1.1}Testing the Sensors}{14}
-\contentsline {section}{\numberline {5.3}Final Design}{15}
-\contentsline {subsection}{\numberline {5.3.1}Critical parameters}{15}
-\contentsline {subsubsection}{\numberline {5.3.1.1}Testing the Sensors}{15}
-\contentsline {chapter}{\numberline {6}Outlook}{16}
- {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {6.1}Conclusion}{16}
-\contentsline {section}{\numberline {6.2}Possible Future Enhancements}{16}
+\contentsline {section}{\numberline {6.1}Conclusion}{18}
+\contentsline {section}{\numberline {6.2}Possible Future Enhancements}{18}
 {\setcounter {tocdepth}{0}}
  \addvspace {30\p@ } \hbox to \hsize {\bf APPENDIX \hfil } \addvspace {1.0em plus 1pt}
-\contentsline {chapter}{\numberline {A}Some Appendix}{19}
-\contentsline {chapter}{\numberline {B}Source Code}{20}
-\contentsline {chapter}{Bibliography}{21}
+\contentsline {chapter}{\numberline {A}Figures}{21}
+\contentsline {chapter}{\numberline {B}Source Code}{24}
+\contentsline {chapter}{Bibliography}{26}

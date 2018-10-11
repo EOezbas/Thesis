@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  10 OCT 2018 07:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  12 OCT 2018 00:55
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -235,6 +235,101 @@ ef")
 
 Writing index file XXX_Thesis.idx
 )
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
+sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+ ("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count94
+\calc@Bcount=\count95
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count96
+\calc@Cskip=\skip51
+)
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
+y"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen120
+\AM@pageheight=\dimen121
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
+def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box30
+\AM@global@opts=\toks20
+\AM@toc@title=\toks21
+\c@AM@survey=\count97
+\AM@templatesizebox=\box31
+)
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtex
+t.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count98
+\c@Blindtext=\count99
+\c@blind@countparstart=\count100
+\blind@countxx=\count101
+\blindtext@numBlindtext=\count102
+\blind@countyy=\count103
+\c@blindlist=\count104
+\c@blindlistlevel=\count105
+\c@blindlist@level=\count106
+\blind@listitem=\count107
+\c@blind@listcount=\count108
+\c@blind@levelcount=\count109
+\blind@mathformula=\count110
+\blind@Mathformula=\count111
+\c@blind@randomcount=\count112
+\c@blind@randommax=\count113
+\c@blind@pangramcount=\count114
+\c@blind@pangrammax=\count115
+)
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count116
+\lst@gtempboxa=\box32
+\lst@token=\toks22
+\lst@length=\count117
+\lst@currlwidth=\dimen122
+\lst@column=\count118
+\lst@pos=\count119
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count120
+\lst@lineno=\count121
+\lst@maxwidth=\dimen125
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count122
+\lst@skipnumbers=\count123
+\lst@framebox=\box33
+)
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
 ("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
 y"
 Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
@@ -243,34 +338,35 @@ Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
 ty"
 Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen118
-\captionmargin@=\dimen119
-\captionwidth=\dimen120
-\caption@tempdima=\dimen121
-\caption@indent=\dimen122
-\caption@parindent=\dimen123
-\caption@hangindent=\dimen124
+\captionmargin=\dimen126
+\captionmargin@=\dimen127
+\captionwidth=\dimen128
+\caption@tempdima=\dimen129
+\caption@indent=\dimen130
+\caption@parindent=\dimen131
+\caption@hangindent=\dimen132
 )
-\c@ContinuedFloat=\count94
+\c@ContinuedFloat=\count124
 Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 ) (XXX_Thesis.aux)
 \openout1 = `XXX_Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 124.
 
 ("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -278,18 +374,35 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count95
-\scratchdimen=\dimen125
-\scratchbox=\box30
-\nofMPsegments=\count96
-\nofMParguments=\count97
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count98
-\MPscratchDim=\dimen126
-\MPnumerator=\count99
-\makeMPintoPDFobject=\count100
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count125
+\scratchdimen=\dimen133
+\scratchbox=\box34
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen134
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks24
 )
+\AtBeginShipoutBox=\box35
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
+.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+\c@lstlisting=\count131
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (TeX/titlepage.tex
@@ -377,20 +490,49 @@ Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [11]
 Chapter\  4. Results
-) (TeX/challenges.tex [12
-
-]
-Chapter\  5. Challenges
-[13
+<Pics/1.png, id=97, 399.4122pt x 200.4288pt>
+File: Pics/1.png Graphic file (type png)
+<use Pics/1.png>
+Package pdftex.def Info: Pics/1.png  used on input line 82.
+(pdftex.def)             Requested size: 455.24408pt x 228.44838pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 83.
+<Pics/2.png, id=99, 399.4122pt x 199.947pt>
+File: Pics/2.png Graphic file (type png)
+<use Pics/2.png>
+Package pdftex.def Info: Pics/2.png  used on input line 85.
+(pdftex.def)             Requested size: 455.24408pt x 227.89922pt.
+[12
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [14])
+ [13 <./Pics/1.png> <./Pics/2.png>]
+<Pics/3.png, id=109, 399.4122pt x 199.947pt>
+File: Pics/3.png Graphic file (type png)
+<use Pics/3.png>
+Package pdftex.def Info: Pics/3.png  used on input line 95.
+(pdftex.def)             Requested size: 455.24408pt x 227.89922pt.
+<Pics/4.png, id=110, 399.4122pt x 206.2104pt>
+File: Pics/4.png Graphic file (type png)
+<use Pics/4.png>
+Package pdftex.def Info: Pics/4.png  used on input line 98.
+(pdftex.def)             Requested size: 455.24408pt x 235.03822pt.
+) (TeX/challenges.tex
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [14 <./Pics/3.png> <./Pics/4.png>]
+Chapter\  5. Challenges
+[15
+
+]
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [16])
 (TeX/outlook.tex
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [15]
+ [17]
 Chapter\  6. Outlook
 
 Overfull \hbox (3.72751pt too wide) in paragraph at lines 9--9
@@ -398,38 +540,75 @@ Overfull \hbox (3.72751pt too wide) in paragraph at lines 9--9
 ecially from hu-mid-ity and temperature-
  []
 
-[16
+[18
 
 ])
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [17]
+ [19]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [18
+ [20
 
 ]
 (TeX/appendix.tex
-\  A. Some Appendix
-[19
+\  A. Figures
+<Pics/8.png, id=136, 807.7678pt x 493.0922pt>
+File: Pics/8.png Graphic file (type png)
+<use Pics/8.png>
+Package pdftex.def Info: Pics/8.png  used on input line 6.
+(pdftex.def)             Requested size: 455.24408pt x 277.89787pt.
+<Pics/5.pdf, id=137, page=1, 845.1575pt x 597.23125pt>
+File: Pics/5.pdf Graphic file (type pdf)
+<use Pics/5.pdf, page 1>
+Package pdftex.def Info: Pics/5.pdf , page1 used on input line 10.
+(pdftex.def)             Requested size: 455.24408pt x 321.70723pt.
+<Pics/6.png, id=138, 820.56563pt x 488.57532pt>
+File: Pics/6.png Graphic file (type png)
+<use Pics/6.png>
+Package pdftex.def Info: Pics/6.png  used on input line 34.
+(pdftex.def)             Requested size: 455.24408pt x 271.05814pt.
+<Pics/7.jpg, id=139, 2276.505pt x 3541.23pt>
+File: Pics/7.jpg Graphic file (type jpg)
+<use Pics/7.jpg>
+Package pdftex.def Info: Pics/7.jpg  used on input line 38.
+(pdftex.def)             Requested size: 227.62204pt x 354.03568pt.
+
+LaTeX Warning: Float too large for page by 11.91814pt on input line 45.
+
+[21
 
 
 ]
-\  B. Source Code
-) (XXX_Thesis.bbl [20
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
-]) [21
+ [22 <./Pics/8.png> <./Pics/5.pdf, page is rotated 90 degrees>]
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [23 <./Pics/6.png> <./Pics/7.jpg>]
+\  B. Source Code
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 50.
+("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+[24
+
+]) (XXX_Thesis.bbl
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [25])
+[26
 
 ] (XXX_Thesis.aux) )
 (\end occurred when \iffalse on line 1 was incomplete) 
 Here is how much of TeX's memory you used:
- 3818 strings out of 492972
- 59471 string characters out of 3126622
- 137832 words of memory out of 3000000
- 7577 multiletter control sequences out of 15000+200000
- 40068 words of font info for 47 fonts, out of 3000000 for 9000
+ 6590 strings out of 492972
+ 99603 string characters out of 3126622
+ 402312 words of memory out of 3000000
+ 10279 multiletter control sequences out of 15000+200000
+ 45101 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,9n,38p,1982b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,9n,42p,1982b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/eozba/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/eozba/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/eoz
@@ -438,14 +617,16 @@ C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr12.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmr8.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/eozba/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/eozba/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/eozba/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/eozba/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (26 pages, 198519 bytes).
+X 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/eozba/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/eozba/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/eozba/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/eozb
+a/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/
+eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on XXX_Thesis.pdf (31 pages, 2245353 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
+ 216 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
