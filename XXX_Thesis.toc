@@ -21,22 +21,21 @@
 \contentsline {subsection}{\numberline {3.2.2}Software}{10}
 \contentsline {subsection}{\numberline {3.2.3}Discussion}{11}
 \contentsline {chapter}{\numberline {4}Results}{12}
-\contentsline {chapter}{\numberline {5}Challenges}{15}
+\contentsline {chapter}{\numberline {5}Challenges}{16}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {5.1}Converting SMD to THT}{15}
-\contentsline {section}{\numberline {5.2}Initial Design}{16}
-\contentsline {subsection}{\numberline {5.2.1}Inconsistencies Between Design and Sensor}{16}
-\contentsline {subsubsection}{\numberline {5.2.1.1}Testing the Sensors}{16}
-\contentsline {section}{\numberline {5.3}Final Design}{17}
-\contentsline {subsection}{\numberline {5.3.1}Critical parameters}{17}
-\contentsline {subsection}{\numberline {5.3.2}Inconsistencies Between Design and Sensor}{17}
-\contentsline {subsubsection}{\numberline {5.3.2.1}Testing the Sensors}{17}
-\contentsline {chapter}{\numberline {6}Outlook}{18}
+\contentsline {section}{\numberline {5.1}Converting SMD to THT}{16}
+\contentsline {section}{\numberline {5.2}Initial Design}{17}
+\contentsline {subsection}{\numberline {5.2.1}Inconsistencies Between Design and Sensor}{17}
+\contentsline {subsubsection}{\numberline {5.2.1.1}Testing the Sensors}{17}
+\contentsline {section}{\numberline {5.3}Final Design}{18}
+\contentsline {subsection}{\numberline {5.3.1}Critical parameters}{18}
+\contentsline {subsubsection}{\numberline {5.3.1.1}Inconsistencies Between Design and Board}{18}
+\contentsline {chapter}{\numberline {6}Outlook}{19}
  {\ifnum \value {tocdepth} > 0 {\vskip 1.0em plus 1pt} \fi }
-\contentsline {section}{\numberline {6.1}Conclusion}{18}
-\contentsline {section}{\numberline {6.2}Possible Future Enhancements}{18}
+\contentsline {section}{\numberline {6.1}Conclusion}{19}
+\contentsline {section}{\numberline {6.2}Possible Future Enhancements}{19}
 {\setcounter {tocdepth}{0}}
  \addvspace {30\p@ } \hbox to \hsize {\bf APPENDIX \hfil } \addvspace {1.0em plus 1pt}
-\contentsline {chapter}{\numberline {A}Figures}{21}
-\contentsline {chapter}{\numberline {B}Source Code}{24}
-\contentsline {chapter}{Bibliography}{26}
+\contentsline {chapter}{\numberline {A}Figures}{22}
+\contentsline {chapter}{\numberline {B}Source Code}{25}
+\contentsline {chapter}{Bibliography}{27}

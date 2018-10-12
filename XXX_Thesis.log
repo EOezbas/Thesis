@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  12 OCT 2018 00:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  12 OCT 2018 07:21
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -490,49 +490,57 @@ Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [11]
 Chapter\  4. Results
-<Pics/1.png, id=97, 399.4122pt x 200.4288pt>
+<Pics/3.png, id=97, 398.9304pt x 228.3732pt>
+File: Pics/3.png Graphic file (type png)
+<use Pics/3.png>
+Package pdftex.def Info: Pics/3.png  used on input line 89.
+(pdftex.def)             Requested size: 455.24408pt x 260.62343pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 90.
+<Pics/1.png, id=98, 399.4122pt x 228.855pt>
 File: Pics/1.png Graphic file (type png)
 <use Pics/1.png>
-Package pdftex.def Info: Pics/1.png  used on input line 82.
-(pdftex.def)             Requested size: 455.24408pt x 228.44838pt.
-LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 83.
-<Pics/2.png, id=99, 399.4122pt x 199.947pt>
-File: Pics/2.png Graphic file (type png)
-<use Pics/2.png>
-Package pdftex.def Info: Pics/2.png  used on input line 85.
-(pdftex.def)             Requested size: 455.24408pt x 227.89922pt.
+Package pdftex.def Info: Pics/1.png  used on input line 93.
+(pdftex.def)             Requested size: 455.24408pt x 260.84851pt.
 [12
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [13 <./Pics/1.png> <./Pics/2.png>]
-<Pics/3.png, id=109, 399.4122pt x 199.947pt>
-File: Pics/3.png Graphic file (type png)
-<use Pics/3.png>
-Package pdftex.def Info: Pics/3.png  used on input line 95.
-(pdftex.def)             Requested size: 455.24408pt x 227.89922pt.
-<Pics/4.png, id=110, 399.4122pt x 206.2104pt>
+ [13 <./Pics/3.png> <./Pics/1.png>]
+<Pics/4.png, id=109, 399.4122pt x 228.855pt>
 File: Pics/4.png Graphic file (type png)
 <use Pics/4.png>
-Package pdftex.def Info: Pics/4.png  used on input line 98.
-(pdftex.def)             Requested size: 455.24408pt x 235.03822pt.
+Package pdftex.def Info: Pics/4.png  used on input line 102.
+(pdftex.def)             Requested size: 455.24408pt x 260.84851pt.
+<Pics/2.png, id=110, 399.4122pt x 228.855pt>
+File: Pics/2.png Graphic file (type png)
+<use Pics/2.png>
+Package pdftex.def Info: Pics/2.png  used on input line 106.
+(pdftex.def)             Requested size: 455.24408pt x 260.84851pt.
+<Pics/9.png, id=111, 798.73407pt x 464.4853pt>
+File: Pics/9.png Graphic file (type png)
+<use Pics/9.png>
+Package pdftex.def Info: Pics/9.png  used on input line 114.
+(pdftex.def)             Requested size: 455.24408pt x 264.73811pt.
 ) (TeX/challenges.tex
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [14 <./Pics/3.png> <./Pics/4.png>]
+ [14 <./Pics/4.png> <./Pics/2.png>]
+Overfull \vbox (1.855pt too high) has occurred while \output is active []
+
+ [15 <./Pics/9.png>]
 Chapter\  5. Challenges
-[15
+[16
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [16])
+ [17])
 (TeX/outlook.tex
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [17]
+ [18]
 Chapter\  6. Outlook
 
 Overfull \hbox (3.72751pt too wide) in paragraph at lines 9--9
@@ -540,35 +548,35 @@ Overfull \hbox (3.72751pt too wide) in paragraph at lines 9--9
 ecially from hu-mid-ity and temperature-
  []
 
-[18
+[19
 
 ])
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [19]
+ [20]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [20
+ [21
 
 ]
 (TeX/appendix.tex
 \  A. Figures
-<Pics/8.png, id=136, 807.7678pt x 493.0922pt>
+<Pics/8.png, id=141, 807.7678pt x 493.0922pt>
 File: Pics/8.png Graphic file (type png)
 <use Pics/8.png>
 Package pdftex.def Info: Pics/8.png  used on input line 6.
 (pdftex.def)             Requested size: 455.24408pt x 277.89787pt.
-<Pics/5.pdf, id=137, page=1, 845.1575pt x 597.23125pt>
+<Pics/5.pdf, id=142, page=1, 845.1575pt x 597.23125pt>
 File: Pics/5.pdf Graphic file (type pdf)
 <use Pics/5.pdf, page 1>
 Package pdftex.def Info: Pics/5.pdf , page1 used on input line 10.
 (pdftex.def)             Requested size: 455.24408pt x 321.70723pt.
-<Pics/6.png, id=138, 820.56563pt x 488.57532pt>
+<Pics/6.png, id=143, 820.56563pt x 488.57532pt>
 File: Pics/6.png Graphic file (type png)
 <use Pics/6.png>
 Package pdftex.def Info: Pics/6.png  used on input line 34.
 (pdftex.def)             Requested size: 455.24408pt x 271.05814pt.
-<Pics/7.jpg, id=139, 2276.505pt x 3541.23pt>
+<Pics/7.jpg, id=144, 2276.505pt x 3541.23pt>
 File: Pics/7.jpg Graphic file (type jpg)
 <use Pics/7.jpg>
 Package pdftex.def Info: Pics/7.jpg  used on input line 38.
@@ -576,36 +584,36 @@ Package pdftex.def Info: Pics/7.jpg  used on input line 38.
 
 LaTeX Warning: Float too large for page by 11.91814pt on input line 45.
 
-[21
+[22
 
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [22 <./Pics/8.png> <./Pics/5.pdf, page is rotated 90 degrees>]
+ [23 <./Pics/8.png> <./Pics/5.pdf, page is rotated 90 degrees>]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [23 <./Pics/6.png> <./Pics/7.jpg>]
+ [24 <./Pics/6.png> <./Pics/7.jpg>]
 \  B. Source Code
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 50.
 ("C:\Users\eozba\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-[24
+[25
 
 ]) (XXX_Thesis.bbl
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
- [25])
-[26
+ [26])
+[27
 
 ] (XXX_Thesis.aux) )
 (\end occurred when \iffalse on line 1 was incomplete) 
 Here is how much of TeX's memory you used:
- 6590 strings out of 492972
- 99603 string characters out of 3126622
+ 6602 strings out of 492972
+ 99729 string characters out of 3126622
  402312 words of memory out of 3000000
- 10279 multiletter control sequences out of 15000+200000
+ 10290 multiletter control sequences out of 15000+200000
  45101 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,9n,42p,1982b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -624,9 +632,9 @@ rograms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/eozb
 a/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/
 eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (31 pages, 2245353 bytes).
+Output written on XXX_Thesis.pdf (32 pages, 2367902 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
+ 221 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

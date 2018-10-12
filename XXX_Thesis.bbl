@@ -46,4 +46,11 @@ Arduino.
 \bibitem{SD}
 {\em Arduino SD Library}.
 
+\bibitem{FAQs}
+{\em Alphasense FAQs}.
+
+\bibitem{Datasheet}
+Alphasense.
+\newblock {\em NO2-B43F Nitrogen Dioxide Sensor 4-Electrode Performance Data}.
+
 \end{thebibliography}

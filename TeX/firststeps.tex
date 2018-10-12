@@ -68,10 +68,17 @@ The function $pinMode()$ is called in order to set the fifth pin of the board as
 In $loop()$ function the serial communication is checked with the function $Serial.available()$ which returns a boolean. If $true$ is returned, the $processSyncMessage()$ is called and the time is set to the received UNIX time stamp. Afterward, the status of the time synchronization is checked by calling the function $timeStatus()$ which indicates if the time has been set. \cite{Time} If the synchronization is flawless the fifth pin is set to $HIGH$ and the indicator LED is powered on. Otherwise, the LED turns off and indicates an error concerning the synchronization. Afterward, a string called $dataString$ is created. This string is then set to a series of strings concatenated together, which contain data of the values of two outputs $O/P1$ and $O/P2$ as well as the date and time at which the data was received. After that the $datalog.txt$ file contained in the SD card is opened by calling $SD.open$ and setting its mode to $FILE\_WRITE$. This enables writing incoming data from the circuit onto the $datalog.txt$ file in the SD card. If the $datalog.txt$ is available for writing the string $dataString$ is written into the $datalog.txt$ file by calling the $dataFile.println$ function and is closed after $dataFile.close$ is called. After the save is completed the $dataString$ is printed on the serial monitor for testing purposes. If the file is unavailable the message "Error opening datalog.txt" is printed on the serial monitor. Lastly, a $delay()$ function with its input parameter set to $1000$ pauses the code for 1000 milliseconds, namely for one second. After the $delay()$ function is executed and exited the $loop()$ function starts again from the top and saves the next incoming data provided with time information.         
 
 \subsection{Discussion}
-Since the auxiliary electrode was used in this circuit unlike the initial circuit, this latest design was a success in terms of outputting approximate results as the ISB circuit. The circuit has more resistor-capacitor pairs at the inputs and outputs of each operational amplifier, which also results in less noise contained in the output signal.
+Since the circuit has more resistor-capacitor pairs at the inputs and outputs of each operational amplifier, there is less noise contained in the output signal. Additionally, the auxiliary electrode was included in this circuit design, which protected the electrode from floating, unlike the previous design.
 
 \chapter{Results}
+The $Amplitude$ axes in Figures~\ref{fig:4.1} to ~\ref{fig:4.4} depicts the voltage level using a specific scale. Like mentioned before, the analog reference is 2.5 Volts and the maximum output value is 1023. Therefore the values on the $Amplitude$ axes must be multiplied by 2.5 and divided by 1023 to obtain the values in Volts. Another multiplication with 1000 results in values in mV. \par    
+The outputted data from the circuit were at the beginning unstable. The noise ratio contained in the signal was very high compared to the signal outputted from the ISB board. In Figure~\ref{fig:4.1} the output signal of my circuit with high noise ratio can be examined in detail. The sampling frequency is 200Hz and the noise frequency is approximately 50Hz. After some research, I found out that the noise may be caused by a noisy USB port supply of the computer. After plugging the laptop in instead of using it on battery power, the noise ratio dropped significantly and the outputted signals were comparable to the ISB values. In Figure~\ref{fig:4.2} it is to be noticed that the noise ratio drops dramatically beginning from approximately 260. sample. At this point, the laptop was plugged in and thus the signal got significantly more stable. \par 
+After plugging the wall adapter in, and thus supplying power to the Arduino board, the SD Module and the main circuit; there is a stabilization time for the sensors to reach saturated results. The duration of this process varies from 10 minutes up to 2 hours for NO2-B43F sensors depending on the time passed after the last use. \cite{FAQs} In Figure~\ref{fig:4.3} the stabilization process of the sensors are depicted. The sampling frequency is equal to 1Hz, namely, the sampling occurs every second. It is to notice that the stabilization speed is different for different sensors, but the saturation level is approximately equal for each sensor under the same environmental conditions. Both $O/P1$ and $O/P1 ISB$ values saturated at approximately 94, which is close to 230 mV. With the help of the graph displayed in Figure~\ref{fig:4.5} the voltage level can be converted into the ppb level of \chem{NO_2} in the environment. For this occasion, the density of \chem{NO_2} is equal to 150 ppb. \par 
+Lastly the Figure~\ref{fig:4.4} depicts the sensor reaction to air flow perpendicular to the sensor surface. The air flow was initiated at the 25. sample and was terminated at the 31. sample. It is to be noticed that there is no significant difference between the sensor reactions. This demonstrates the success of the circuit board and proves the reconstructability of the sensor unit.  
 
+
+
+%The outputted data from the circuit were at the beginning unstable. The signal-to-noise ratio was too low compared to the values from the ISB circuit. After noticing the pattern of the noise ratio contained in the signal, I started to make a deeper examination of the signal. In Figure~\ref{fig:4.1} the signal can be observed in high resolution, namely the sampling rate is 5 milliseconds per sample, or 200Hz. After a brief research on electrical noise, I found out that the problem was caused by the USB VBUS supply of the laptop, which is connected to the Arduino board.   
 
 
 
@@ -79,35 +86,34 @@ Since the auxiliary electrode was used in this circuit unlike the initial circui
 
 	\begin{figure}
 		\begin{center}
-		\includegraphics[width=1\textwidth]{Pics/1}
-		\caption{Output Signal Comparison with High and Low Noise}
+		\includegraphics[width=1\textwidth]{Pics/3}
+		\caption{Signal with High Noise Ratio (High Resolution)}
+		\label{fig:4.1}
 		\vspace{2cm}
-		\includegraphics[width=1\textwidth]{Pics/2}
-		\caption{Reaction Comparison of Both Circuits}
-		\medskip
-		%\small
-		%Explanation
+		\includegraphics[width=1\textwidth]{Pics/1}
+		\caption{Output Signal Comparison with High and Low Noise Ratio}
+		\label{fig:4.2}
+		\vspace{2cm}
 	\end{center}
 	\end{figure}
 		\newpage
 		\begin{figure}
 			\begin{center}
-				\includegraphics[width=1\textwidth]{Pics/3}
-				\caption{Signal with High Noise Ratio}
-				\vspace{2cm}
 				\includegraphics[width=1\textwidth]{Pics/4}
 				\caption{Stabilization Process}
-				\medskip
-				%\small
-				%Explanation
+				\label{fig:4.3}
+				\vspace{2cm}
+				\includegraphics[width=1\textwidth]{Pics/2}
+				\caption{Reaction Comparison of Both Circuits}
+				\label{fig:4.4}
 			\end{center}
 		\end{figure}
-
-
-%After the circuit was finished, I started to test the circuit 
-
-
-
-%sonuç - aux -> noise cancellation
-%sokakta test -> discussion
-
+	\newpage
+	\begin{figure}
+		\begin{center}
+	\includegraphics[width=1\textwidth]{Pics/9}
+	\caption{Response to 200 ppb \chem{NO_2} \cite{Datasheet}}
+	\label{fig:4.5}
+	\medskip		
+\end{center}
+\end{figure}
