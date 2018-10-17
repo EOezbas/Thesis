@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  12 OCT 2018 07:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.13)  17 OCT 2018 09:40
 entering extended mode
 **./XXX_Thesis.tex
 (XXX_Thesis.tex
@@ -490,34 +490,34 @@ Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [11]
 Chapter\  4. Results
-<Pics/3.png, id=97, 398.9304pt x 228.3732pt>
+<Pics/3.png, id=97, 399.4122pt x 228.3732pt>
 File: Pics/3.png Graphic file (type png)
 <use Pics/3.png>
 Package pdftex.def Info: Pics/3.png  used on input line 89.
-(pdftex.def)             Requested size: 455.24408pt x 260.62343pt.
+(pdftex.def)             Requested size: 455.24408pt x 260.29936pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 90.
-<Pics/1.png, id=98, 399.4122pt x 228.855pt>
+<Pics/1.png, id=98, 398.9304pt x 228.3732pt>
 File: Pics/1.png Graphic file (type png)
 <use Pics/1.png>
 Package pdftex.def Info: Pics/1.png  used on input line 93.
-(pdftex.def)             Requested size: 455.24408pt x 260.84851pt.
+(pdftex.def)             Requested size: 455.24408pt x 260.62343pt.
 [12
 
 ]
 Overfull \vbox (1.855pt too high) has occurred while \output is active []
 
  [13 <./Pics/3.png> <./Pics/1.png>]
-<Pics/4.png, id=109, 399.4122pt x 228.855pt>
+<Pics/4.png, id=109, 399.4122pt x 228.3732pt>
 File: Pics/4.png Graphic file (type png)
 <use Pics/4.png>
 Package pdftex.def Info: Pics/4.png  used on input line 102.
-(pdftex.def)             Requested size: 455.24408pt x 260.84851pt.
-<Pics/2.png, id=110, 399.4122pt x 228.855pt>
+(pdftex.def)             Requested size: 455.24408pt x 260.29936pt.
+<Pics/2.png, id=110, 399.4122pt x 228.3732pt>
 File: Pics/2.png Graphic file (type png)
 <use Pics/2.png>
 Package pdftex.def Info: Pics/2.png  used on input line 106.
-(pdftex.def)             Requested size: 455.24408pt x 260.84851pt.
+(pdftex.def)             Requested size: 455.24408pt x 260.29936pt.
 <Pics/9.png, id=111, 798.73407pt x 464.4853pt>
 File: Pics/9.png Graphic file (type png)
 <use Pics/9.png>
@@ -616,7 +616,7 @@ Here is how much of TeX's memory you used:
  10290 multiletter control sequences out of 15000+200000
  45101 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,9n,42p,1982b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,9n,42p,1980b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/eozba/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/eozba/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/eoz
@@ -632,7 +632,7 @@ rograms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/eozba/AppData
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/eozb
 a/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/
 eozba/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on XXX_Thesis.pdf (32 pages, 2367902 bytes).
+Output written on XXX_Thesis.pdf (32 pages, 2369125 bytes).
 PDF statistics:
  221 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
